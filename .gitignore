@@ -1,2 +1,3 @@
 run.sh
 *.jsonlz4
+.ipynb_checkpoints
